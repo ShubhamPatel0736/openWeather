@@ -36,10 +36,10 @@ padding:10px 10px;
 }
 
 .display{
-position:fixed;
-align:center;
+position:relative;
+left:520px;
 text-align:center;
-height:200px;
+height:100px;
 width:300px;
 background:#e7e7e7;
 font-family:"Nunito",sans-serif;
